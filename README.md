@@ -1,7 +1,7 @@
 
 ![forest](https://user-images.githubusercontent.com/39279950/207899157-43eca06f-7dc3-4c71-9a60-2dd93cb7502e.png)
 
-# Topic Modelling (LDA) and Text Generation (GPT-3) with Environmental Data
+# Topic Modelling (LDA) and Text Generation (GPT-3) with Environmental/Sustainable Development Goals (SDG) Data
 This repo covers Topic Modelling and Text Generation. For the Topic Modelling task, the LDA model was used, while a replication of GPT-3  was used for Text Generation. Of course a replication of it was used due to limited resources. The task focuses on environmental issues: protecting forests, biodiversity and more
 # Useful Links
 1. You can find the OSDG Community dataset on this site: https://zenodo.org/record/7136826#.Y5s8nX1BxPa
